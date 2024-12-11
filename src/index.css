@@ -7,10 +7,13 @@
 
 body {
 	text-align: center;
-	background-color: #1b2034;
+	background-color: #0a0a0b;
 	color: #fff;
 }
-
+.but{
+	width:50px;
+	height:50px
+}
 img {
 	display: block;
 	width: 480px;
@@ -46,7 +49,7 @@ button, a {
 	background: none;
 	cursor: pointer;
 
-	color: #2bcb4b;
+	color: rgb(5, 158, 30);
 	font-size: 1.5rem;
 	text-decoration: none;
 }
