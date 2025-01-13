@@ -1,0 +1,59 @@
+{
+	"folders": [
+		{
+			"name": "vade-next",
+			"path": "../../Documents/vade-next"
+		},
+		{
+			"name": "travel-app",
+			"path": "../../Documents/travel-app"
+		},
+		{
+			"name": "travel-page",
+			"path": "../../Documents/travel-page"
+		},
+		{
+			"name": "imageefy_ai_app",
+			"path": "../../Documents/imageefy_ai_app"
+		},
+		{
+			"name": "Full-stack-real-estate",
+			"path": "../../Documents/Full-stack-real-estate"
+		},
+		{
+			"name": "FoodDelivery",
+			"path": "../../Documents/FoodDelivery"
+		},
+		{
+			"name": "award-winning-website-main",
+			"path": "../../Downloads/award-winning-website-main"
+		},
+		{
+			"name": "Gaming_web",
+			"path": "../Gaming_web"
+		},
+		{
+			"name": "Barbershop",
+			"path": "../Barbershop"
+		},
+		{
+			"name": "QrGen",
+			"path": "."
+		},
+		{
+			"name": "Flightbook",
+			"path": "../Flightbook"
+		},
+		{
+			"name": "myreact",
+			"path": "../myreact"
+		},
+		{
+			"name": "Foodie",
+			"path": "../../Documents/Foodie"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Barbershop"
+	}
+}

@@ -7,23 +7,32 @@
 
 body {
 	text-align: center;
-	background-color: #0a0a0b;
-	color: #fff;
+    background-image: url(/src/Qr.jpg);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: left top;
+    color: #0f0f0f;
+	background-color: #ffffff;
 }
-.but{
-	width:50px;
-	height:50px
+
+.but {
+	width: 50px;
+	height: 50px
 }
+
 img {
 	display: block;
-	width: 480px;
-	height: 480px;
+	width: 440px;
+	height: 440px;
 	margin: 2rem auto;
 }
 
 .app {
-	padding: 2rem;
+	position: relative;
+	margin-left: 45rem;
+	margin-top: 17rem;
 }
+
 
 h1 {
 	font-size: 2rem;
@@ -34,7 +43,7 @@ input {
 	appearance: none;
 	outline: none;
 	border: none;
-	background: #EEE;
+	background: #bbb6b6;
 	width: 100%;
 	max-width: 320px;
 	padding: 0.5rem 1rem;
@@ -42,14 +51,20 @@ input {
 	margin-right: 1rem;
 }
 
-button, a {
+button,
+a {
 	appearance: none;
 	outline: none;
 	border: none;
-	background: none;
-	cursor: pointer;
-
-	color: rgb(5, 158, 30);
-	font-size: 1.5rem;
+    background: #0f0e0e;
+    cursor: pointer;
+    color: rgb(228 231 229);
+	font-size: 1rem;
 	text-decoration: none;
+	display: flex;
+	position: relative;
+	left: 18rem;
+	margin-top: 2rem;
+	padding: 10px;
+	border-radius: 3rem;
 }
